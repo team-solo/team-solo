@@ -1,28 +1,62 @@
-# Solo Policy Hackathon Project
+# PROJECT TITLE
 
-**Team:** Team Solo  
-**Member:** <your name>  
-**Project:** Simulation Practice on GitHub  
-**Goal:** Learn GitHub workflow for hackathons.
+## Overview
 
-## Problem Description
-This is a practice scenario. The purpose is to simulate version control and repo structure during a policy hackathon.
+A brief overview of what the project is about. Purpose, goals, and key problems it solves
 
-## Proposed Policy Solution
-N/A — practice repository.
+---
 
-## Repo Structure
-- `/docs` — policy drafts  
-- `/prototype` — any prototype/mock-up  
-- `/data` — datasets
+## Team Members 
+- Balitaan, Alliena Pauleen
+- Alforte, Ninna Beatrice
+- Elicaño, Carlos
+- Mendoza, Excel Sares
 
-## Progress
-- [x] Repo created  
-- [x] Fork completed  
-- [x] Repo structure added  
-- [ ] Branching  
-- [ ] Pull requests  
-- [ ] Merging  
 
-## Contact
-<your name> — @<your username>
+---
+
+
+## Policy Overview
+Provide a summary of the policy context, key issues addressed, and the relevance of the project in the selected policy area
+
+
+---
+
+
+## Technology Stack
+Tools, libraries, platforms, or frameworks used in the project
+- Github
+
+
+---
+
+
+## Methodology
+Steps, approach, and processes in conducting the project
+- Data collection
+- Data cleaning
+- Analytical tools and methods
+- Frameworks or models applied
+
+
+  ---
+
+
+  ## Insights and Analyses
+  Major findings, insights, analyses, from the project
+
+
+---
+
+
+## Setup and Installation Guide
+No installation is required. All project files (documents, analysis, and visuals) can be viewed directly in the repository.
+
+
+---
+
+
+## Data Source(s) Used
+
+  
+
